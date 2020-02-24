@@ -1,7 +1,7 @@
-# paper.millenniumclub.ca
-JavaScript Client-Side MillenniumClub Wallet Generator
+# paper.foxrtb.com
+JavaScript Client-Side foxdcoin Wallet Generator
 
-Now MillenniumClub addresses and their corresponding private key can be conveniently
+Now foxdcoin addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
 ## Installation
@@ -32,9 +32,6 @@ loaded.
 
 
 
-Please send DONATIONS for original project to millenniumclub Address:
-mMM7v76RdZc2XMeh2RzrTkwAYcuLjfrrkp
-
 
 END USER NOTES:
 
@@ -53,10 +50,10 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The paper.millenniumclub.ca project, software and embedded resources are
-copyright The Millenniumclub Developers.
+The paper.foxrtb.com project, software and embedded resources are
+copyright The foxdcoin Developers.
 
-The paper.millenniumclub.ca name, Millennium name and logo are not part of the open source
+The paper.foxrtb.com name, FoxDCoin name and logo are not part of the open source
 license.
 
 The bitaddress.org project, software and embedded resources are

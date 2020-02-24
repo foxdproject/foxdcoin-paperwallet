@@ -7,7 +7,7 @@ module.exports = function (grunt) {
     combine: {
       single: {
         input: "./src/bitaddress-ui.html",
-        output: "./paper.milleniumclubcoin.html",
+        output: "./paper.foxrtb.html",
         tokens: [
           { token: "//biginteger.js", file: "./src/biginteger.js" },
           { token: "//bitcoinjs-lib.js", file: "./src/bitcoinjs-lib.js" },
@@ -66,7 +66,7 @@ module.exports = function (grunt) {
           eol: 'lf'
         },
         files: {                // Files to process
-          './paper.milleniumclubcoin.html': ['./paper.milleniumclubcoin.html']
+          './paper.foxrtb.html': ['./paper.foxrtb.html']
         }
       }
     },
@@ -74,8 +74,8 @@ module.exports = function (grunt) {
     assetenc: {
       pathToAssets: 'src/images',
       rootAlias: 'images',
-      dst: './paper.milleniumclubcoin.html',
-      template: './paper.milleniumclubcoin.html',
+      dst: './paper.foxrtb.html',
+      template: './paper.foxrtb.html',
     },
 
   });
